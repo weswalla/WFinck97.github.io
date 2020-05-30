@@ -1,4 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/welcome/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" /><updated>2020-05-29T08:36:55-03:00</updated><id>http://localhost:4000/welcome/feed.xml</id><title type="html">Wesley Finck</title><subtitle>Hey there, welcome to my personal website. It is currently under development but I will try to update it with interesting content once in a while.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome/jekyll/update/2020/05/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-05-28T18:42:51-03:00</published><updated>2020-05-28T18:42:51-03:00</updated><id>http://localhost:4000/welcome/jekyll/update/2020/05/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome/jekyll/update/2020/05/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="http://localhost:4000/welcome/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/welcome/" rel="alternate" type="text/html" /><updated>2020-05-30T14:45:00-03:00</updated><id>http://localhost:4000/welcome/feed.xml</id><title type="html">Wesley Finck</title><subtitle>Hey there, welcome to my personal website. It is currently under development but I will try to update it with interesting content once in a while.</subtitle><entry><title type="html">21st century advice for PSS students</title><link href="http://localhost:4000/welcome/jekyll/update/2020/05/30/PSS-Blog.html" rel="alternate" type="text/html" title="21st century advice for PSS students" /><published>2020-05-30T13:42:51-03:00</published><updated>2020-05-30T13:42:51-03:00</updated><id>http://localhost:4000/welcome/jekyll/update/2020/05/30/PSS-Blog</id><content type="html" xml:base="http://localhost:4000/welcome/jekyll/update/2020/05/30/PSS-Blog.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Hey there and welcome. If you are coming from the &lt;a href=&quot;link to youtube vids&quot;&gt;videos&lt;/a&gt;, welcome back. For those that are new, let me quickly introduce myself. I’m Wesley, and I graduated from Pemberton Secondary School (PSS) in June 2015. I also just finished an elecrical engineering degree at the University of New Brunswick, so I think that means I’m officially an “adult” now.&lt;/p&gt;
+
+&lt;p&gt;Normally, I try my best to visit at least once a year and give some sort of a presentation to the more senior students. Every time, I ask myself &lt;em&gt;what is the most valuable insight I can share during this presentation?&lt;/em&gt; Like many of you, I was nearing the end of high school with very little idea about what I wanted to do with my life. How could anyone expect me to make &lt;em&gt;life decisions&lt;/em&gt; when I lacked so much &lt;em&gt;life experience&lt;/em&gt;? It just didn’t make any sense. And so, I want to share advice that may provide useful in your own decision making as you near the end of high school.&lt;/p&gt;
+
+&lt;p&gt;One of my main motivation for doing this is to share advice that I wish I had received when I was in your position. In the past, I have focused on advice more specifically related to university. But, I honestly think there’s enough resources freely available on those topics, instead, I want to explore a few topics that are more general and perhaps even less commonly discussed. Of course, this list is by no means conclusive and extensive. Think of them more so as ideas I would encourage you to further contemplate and explore. Lastly, these are my opinions, so I would hope you disagree with some of them.&lt;/p&gt;
+
+&lt;p&gt;With that, I truly hope you find the advice below helpful, and I wish you the best of luck as you get closer to graduating high school.&lt;/p&gt;
+
+&lt;h1 id=&quot;patience---you-have-more-time-than-you-think&quot;&gt;Patience - you have more time than you think&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Patience is bitter, but its fruit is sweet.” ― Aristotle&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t know about you, but I find I often want things immediately, like skills, accomplishments, recognition etc. I can’t tell you why this is exactly, but I would imagine it has something to do with the way interactive technology is designed (phones and computers are incredibly fast and responsive) and also our exposure to the &lt;em&gt;entire world&lt;/em&gt; via the internet. We are exposed to the best of the best - some of the &lt;strong&gt;worlds most successful individuals&lt;/strong&gt; highlighting their greatest accomplishments.&lt;/p&gt;
+
+&lt;p&gt;What we don’t see, though, is the years, decades, and sometimes generations of effort and experience (and also luck and fortune) behind these achievements. It’s also too easy to forget that we have an &lt;em&gt;entire life&lt;/em&gt; to “figure things out” and work towards our life goals. If you really care about something, you have to be willing to accept that it takes a lot of time and effort.&lt;/p&gt;
+
+&lt;p&gt;Another important aspect of patience is in regards to learning and problem solving. Often, we think we can’t learn something, deeming it too difficult. For years, this is exactly what I told myself when it came to using computers. If ever an issue occured which I didn’t know how to fix, my initial response was fear, defeat, and even embarrassment. Throughout my electrical engineering degree at UNB though, I had no choice but to confront confusing computer issues head-on, working through them no matter how long took. Eventually, I realised that as long as I was comfortable working &lt;em&gt;at my own pace&lt;/em&gt;, I could solve many challenging technical problems. Consequently, I don’t think computer competency is as much a talent (as some tech savvy folk like to make it out to be) as it is &lt;strong&gt;having the patience to build up a skill over time&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Whether it’s fixing an issue with your computer or learning a new skill, taking the time (sometimes a LOT of time - years, even) to look for answers and make incremental progress pays off in the long run. Having a bit of patience can allow you to recognize that with time, you will learn and you will improve. The best part is, &lt;strong&gt;patience is something we are all capable of developing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;With that said, we all move at our own pace and we all have our own strengths and weaknesses. Be proud, celebrate your accomplishments, and make sure to look back and reflect once in a while. Too often we compare our abilities against others, instead of against our past selves.&lt;/p&gt;
+
+&lt;h1 id=&quot;mental-health---were-in-this-together&quot;&gt;Mental Health - we’re in this together&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“If we start being honest about our pain, our anger, and our shortcomings instead of pretending they don’t exist, then maybe we’ll leave the world a better place than we found it.” – Russell Wilson&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During my time at UNB, I spent two years as a proctor (AKA “resident assistant”). Basically, I lived in a residence building with about 70 other students and my role was to help maintain a healthy community. A large part of my responsibilities consisted of checking in with residents and refering them to appropriate resources if ever there was a problem. For example, I would refer students to academic resources for help with their school work. But most often, it would refer students to counselling services (a school facility where you could schedule appointments with counsellors) for help with their mental health.&lt;/p&gt;
+
+&lt;p&gt;This is when I realised that we &lt;em&gt;all&lt;/em&gt; deal with mental health challenges. No one is exempt. Let me repeat that: &lt;strong&gt;&lt;em&gt;everyone&lt;/em&gt;&lt;/strong&gt; (including you and me) &lt;em&gt;has&lt;/em&gt; struggled, is &lt;em&gt;currently&lt;/em&gt; struggling, or &lt;em&gt;will&lt;/em&gt; struggle with their own mental health - it’s part of being human. I met countless people from various backgrounds, some more open to mental health than others. But, the one commonality was that counselling services &lt;em&gt;consistently&lt;/em&gt; helped people manage their mental health. Not once did someone leave counselling services worse than when they entered.&lt;/p&gt;
+
+&lt;p&gt;It’s important to do some things by yourself, but dealing with mental health is not one of them. I admit, it can be hard to talk about mental health with friends and family. Luckily, there is almost always an external resource for you to seek help, including your school counsellor (and your future resident assistant - for those planning on attending university).&lt;/p&gt;
+
+&lt;p&gt;We are incredibly lucky to be living in a time when mental health awareness is a widespread and socially acceptable topic. Not only that, our collective understanding of mental health is expanding. For instance, the growing fields of psychology, neuroscience, and cognitive science. Psychologist, neuroscientists, and other related professionals, &lt;strong&gt;dedicate their lives&lt;/strong&gt; to understanding the human mind, including all the reasons why people struggle with their mental health. What this means for us is that we have access to some of the &lt;em&gt;most effective&lt;/em&gt; methods, treatments, and resources for managing our mental health - as long as we are willing to seek external help.&lt;/p&gt;
+
+&lt;p&gt;Self-care, meaning managing your own mental health, is an integral aspect of living a happy, healthy life.&lt;/p&gt;
+
+&lt;h1 id=&quot;attention---sacrifice-and-the-most-valuable-resource&quot;&gt;Attention - sacrifice and the most valuable resource&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“In a world deluged by irrelevant information, clarity is power.”― Yuval Noah Harari&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Do you find you have a short attention span? I know I do. The most likely reason for this is because of the &lt;em&gt;attention economy&lt;/em&gt;. &lt;em&gt;Attention economy&lt;/em&gt; may seem like a fancy term, but all it means is that &lt;strong&gt;some companies profit off of capturing their user’s attention&lt;/strong&gt;. Let me explain.&lt;/p&gt;
+
+&lt;p&gt;Most likely, you use platforms like YouTube, Facebook, Instagram and Snapchat. For us, these services are free. But, these companies still need to make money (it is business after all). How does a company make money when it’s users don’t pay anything? Well, they make a large portion of their revenue by showing us ads. The more ads they are able to show, the more money they get from the advertisers. It’s quite a simple set of equations actually:&lt;/p&gt;
+
+&lt;p&gt;\(more\ time = more\ ads\)
+\(more\ ads = more\ money\)&lt;/p&gt;
+
+&lt;p&gt;And so, if these companies want to make more money (which, FYI, they 100% do), they need us to &lt;strong&gt;spend more time on their platform&lt;/strong&gt;. Unfortunately, this motivates them to make their platforms as &lt;em&gt;addictive&lt;/em&gt; and &lt;em&gt;engaging&lt;/em&gt; as possible - so we can spend more time consuming ads.&lt;/p&gt;
+
+&lt;p&gt;In fact, many of these platforms use a human behavior design technique called &lt;em&gt;intermittend variable rewards&lt;/em&gt;, which is a technique &lt;strong&gt;used in slot machines&lt;/strong&gt; and has been studied extensively in &lt;a href=&quot;https://en.wikipedia.org/wiki/Reinforcement#Intermittent_reinforcement.3B_schedules&quot;&gt;psychology&lt;/a&gt;. There is a &lt;em&gt;very precisely calculated&lt;/em&gt; reason why we find ourselves scrolling through social media feeds so often. Let me rephrase that: SOCIAL MEDIA PLATFORMS ARE INTENTIONALLY DESIGNED TO BE AS &lt;strong&gt;ADDICTIVE AS POSSIBLE&lt;/strong&gt; BECAUSE IT MAXIMIZES THEIR PROFIT.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in learning more about the design techniques used by social media platforms, &lt;a href=&quot;https://www.huffpost.com/entry/how-technology-hijacks-peoples-minds_b_10155754&quot;&gt;this article&lt;/a&gt; is a great resources. A short excerpt:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“If you want to maximize addictiveness, all tech designers need to do is link a user’s action (like pulling a lever) with a variable reward. You pull a lever and immediately receive either an enticing reward (a match, a prize!) or nothing. Addictiveness is maximized when the rate of reward is most variable.’’ - Tristan Harris&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Okay, so what does this have to do with sacrifice? And why is attention the most valuable resource? Well, simply put, our attention is our time (which is finite, AKA you are going to die one day), and I would imagine you want to spend your time well (I sure do). If you want to have better control over your own attention, which you can, you will have to make sacrifices. As an example, you will have to make sacrifices when it comes to selecting the content you consume. I think of this as a sacrifice because we can become very attached to our social networks and the content we are used to consuming. Choosing what to cut out can be tough. But, &lt;strong&gt;there is simply too much content to not be selective about what you spend your time consuming.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Chances are, like me, your attention has already been “hacked” by these dishonest design tricks. Developing more focused attention will take a lot of patience and sacrifice, but, it is possible and I do hope you take this seriously. By sacrificing a bit of immediate satisfaction (say, scrolling through a social media feed or watching that recommended YouTube video) you can slowly gain the longer term benefits of having more focused attention.&lt;/p&gt;
+
+&lt;p&gt;Having an awareness of the flaws in modern technology can help us make more informed and genuine decisions. The reality, sadly, is that these companies do not have our well-being in their best interest.&lt;/p&gt;
+
+&lt;h1 id=&quot;role-models---actions-speak-for-themselves&quot;&gt;Role Models - actions speak for themselves&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Being a role model is equal parts being who you actually are and what people hope you will be.” Meryl Streep&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As I have mentioned before, because of the internet and social media platforms, we are constantly exposed to some of the worlds most talented, successful, and lucky individuals. Not only that, even our friends and family typically highlight their best moments in life on social media. Because of this, in can be easy to feel jealous, endlessly seeing other people living a more exciting and/or desireable lifestyle.&lt;/p&gt;
+
+&lt;p&gt;This is why I think it is important to identify key role models in life. A role model will not try to make you jealous of their fortune or accomplishments or hard work, rather, they will empower you (even if you don’t know them directly) to be a better version of yourself. A role model should be someone who you can admire &lt;em&gt;without&lt;/em&gt; feeling (too) jealous. Jealousy is natural, but it’s important to recognize when we are experiencing it.&lt;/p&gt;
+
+&lt;p&gt;Follow people that empower you and make you feel good about yourself, not jealous. Similarly to what I said about our own attention, &lt;strong&gt;there are simply too many people looking for followers to not be selective about who you follow&lt;/strong&gt;. In case you were wondering, some of my personal role models are (all of which have influenced these very points I am sharing with you in some way or another):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Yuval_Noah_Harari&quot;&gt;Yuval Noah Harari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Tristan_Harris&quot;&gt;Tristan Harris&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;J.K. Rowling (especially Albus Dumbledore)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If ever I am in a difficult situation, I like to ask myself &lt;em&gt;what would my role models do in this situation?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;With that said, it’s also important to try and be a role model yourself. Humans are social animals, so, naturally, we want to be accepted by our peers. In the short term, this may lead us to value popularity and social status above connection, empowerment, and authenticity. But, trying to be a role model forces you to question your own actions and introspect in healthy ways. It can help you determine which choices have better long term benefits and which choices may only lead to temporary rewards. Being a role model can also give you a sense of purpose and responsibility, both of which can really help you find more direction in life.&lt;/p&gt;
+
+&lt;p&gt;Rather than seeking large numbers of followers, aim to positively influece a small number of people around you. Your impact on these other people will bring you so much more fullfillment than any number of followers could.&lt;/p&gt;
+
+&lt;h1 id=&quot;mindset---resilience-for-a-changing-world&quot;&gt;Mindset - resilience for a changing world&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“When we are no longer able to change a situation - we are challenged to change ourselves.” - Viktor E. Frankl&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If working on our attention is managing &lt;em&gt;what to think&lt;/em&gt;, then working on our mindset is managing &lt;em&gt;how to think&lt;/em&gt;. This is an important point: sometimes we don’t have much control over our circumstances, but, we can control &lt;em&gt;how we react&lt;/em&gt; to such circumstances.&lt;/p&gt;
+
+&lt;p&gt;As people get older, they become much more set in their worldview, which makes it increasingly difficult for them to change their mind. At your age, you are probably more open-minded than you ever will be again. Take advantage of this. Now, more so than any other time, you can develop &lt;em&gt;mental flexibility&lt;/em&gt; which can help you adapt to whatever the future will bring.&lt;/p&gt;
+
+&lt;p&gt;As we have seen from the coronavirus pandemic, the world can change drastically very quickly, even when things seem to be relatively okay. It would be comforting to imagine that the world will “go back to normal and everything will be okay”. But the reality is, humanity will continue to be faced with adversity and will continue to make mistakes. I think it’s just human nature.&lt;/p&gt;
+
+&lt;p&gt;Whether it’s the increasingly devastating effects of climate change (environmentally but also psychologically) or growing inequality due to advancing technologies (like life extension, genetic engineering, and brain-computer interfaces), no doubt, our generation will be faced with some complex and uncomfortable challenges.&lt;/p&gt;
+
+&lt;p&gt;The easiest thing to do would be to not think about it. But, eventually, you will be forced to confront these issues. Now, while you are young and adaptable, try to recognize that your mindset (which greatly influences how you react to challenging situations) can develop and change over time. Having an open-mind and a broad perspective of the future will help you stay resilient in a rapidly changing world.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion---thank-you&quot;&gt;Conclusion - thank you&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.” - Albus Dumbledore&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you have made it this far, congratulations and thank you. I know that some of these ideas (and quotes) are a bit, well, bleak. But, I would be lying if I didn’t say there are many challenges ahead for our generation. There is still plenty of room for optimism, but not without action. The world needs young leaders like yourself to step up and fight for what matters to you. Collectively, we can change the world for the better.&lt;/p&gt;
+
+&lt;p&gt;Welcome to the “becoming an adult” part of your life.&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;p&gt;Wesley&lt;/p&gt;
+
+&lt;p&gt;P.S. If you found any of this advice helpful, please share it with your friends and fellow classmates. Additionally, if you have comments, feel free to let me know at wesleyfinck@gmail.com. I encourage all forms of feedback.&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction Hey there and welcome. If you are coming from the videos, welcome back. For those that are new, let me quickly introduce myself. I’m Wesley, and I graduated from Pemberton Secondary School (PSS) in June 2015. I also just finished an elecrical engineering degree at the University of New Brunswick, so I think that means I’m officially an “adult” now.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome/jekyll/update/2020/05/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-05-28T18:42:51-03:00</published><updated>2020-05-28T18:42:51-03:00</updated><id>http://localhost:4000/welcome/jekyll/update/2020/05/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome/jekyll/update/2020/05/28/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
