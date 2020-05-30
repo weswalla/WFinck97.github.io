@@ -8,3 +8,8 @@ permalink: /
 
 # Posts
 - [21st Century Advice for PSS Students](https://wfinck97.github.io/welcome/jekyll/update/2020/05/30/PSS-Blog.html)
+
+# Contact
+- email: wesley.finck@ieee.org
+- twitter: [@wesleyfinck](https://twitter.com/wesleyfinck)
+- [YouTube](https://www.youtube.com/channel/UCPMZ2h9TqvfWIAQyFGfPyEQ?view_as=subscriber)
